@@ -1,0 +1,73 @@
+{
+  "appnews": {
+    "appid": 480,
+    "newsitems": [
+      {
+        "gid": "380788575849666406",
+        "title": "MaadPhoton",
+        "url": "https://MaadPhoton.ir",
+        "is_external_url": true,
+        "author": "MPG-X",
+        "contents": "[img]http://127.0.0.1/rust/img/MPrust.jpg[/img]♻ Rust116 s.1 (vk.cc/aCaA8M): Был глобал вайп. \n✉ Всем приятной игры!",
+        "feedlabel": "Community Announcements",
+        "date":1639114252,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 480
+      },
+	  {
+        "gid": "380788575849666406",
+        "title": "MaadPhoton",
+        "url": "https://MaadPhoton.ir",
+        "is_external_url": true,
+        "author": "MPG-X",
+        "contents": "Ребята оцените видосик нашего старичка, записал на 116 девблоге лайки коменты туда👇🏻😉",
+        "feedlabel": "Community Announcements",
+        "date": 1626274077,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 480
+      },
+	  {
+        "gid": "380788575849666406",
+        "title": "MaadPhoton",
+        "url": "https://MaadPhoton.ir",
+        "is_external_url": true,
+        "author": "MPG-X",
+        "contents": "♻ Rust116 s.1 (vk.cc/aCaA8M): Был вайп карты. \n✉ Всем приятной игры!",
+        "feedlabel": "Community Announcements",
+        "date": 1625839063,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 480
+      },
+	  {
+        "gid": "380788575849666406",
+        "title": "MaadPhoton",
+        "url": "https://MaadPhoton.ir",
+        "is_external_url": true,
+        "author": "MPG-X",
+        "contents": "♻ Rust116 s.1 (vk.cc/aCaA8M): \n Так как глобальная обнова на все сервера задерживается - самого уже за..ало переделывать её из-за новых добавлений, фиксов и ... \n Выставляю обнову на Rust116, которая коснулась урона - он теперь адекватный. Сам не ожидал, но вы засрали мне ЛС по этому поводу :))) \n Клиентская часть была подготовлена ещё в прошлых обновах - так, что вам ничего в данным момент качать не нужно!\n Так же добавил хит маркет который будет отображать каждое ваше попадание с правильным отображением нанесённого вами урона.\n✉ Всем приятной игры и урона от каждого меткого выстрела :)",
+        "feedlabel": "Community Announcements",
+        "date": 1625683779,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 480
+      },
+	  {
+        "gid": "380788575849666406",
+        "title": "MaadPhoton",
+        "url": "https://MaadPhoton.ir",
+        "is_external_url": true,
+        "author": "MPG-X",
+        "contents": "lorem ipsum",
+        "feedlabel": "Community Announcements",
+        "date": 1625234299,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 480
+      }
+    ],
+    "count": 841
+  }
+}
