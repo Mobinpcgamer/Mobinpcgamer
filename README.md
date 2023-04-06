@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mobinpcgamer
-- 👀 I’m interested in Html
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on Border
-- 📫 How to reach me ...
+- 👋 Hi, I’m @MobinPcGamer
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking for needed Developer
+- 📫 How to reach me Discord : MPG-X#1154
 
 <!---
 Mobinpcgamer/Mobinpcgamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
